@@ -21,5 +21,5 @@ int main(){
     cout << "#Odd numbers = " << O;
     
     return 0;
-
+//bruh
 }
